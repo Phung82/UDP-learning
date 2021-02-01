@@ -36,5 +36,6 @@ namespace Server
                 socket.SendTo(sendBuffer, remoteEndpoint);
                 Array.Clear(receiveBuffer, 0, size);
             }
+        }
     }
 }

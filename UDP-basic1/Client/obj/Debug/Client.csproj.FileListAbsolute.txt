@@ -1,0 +1,7 @@
+C:\Users\SB\Desktop\UDP\UDP-basic1\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\SB\Desktop\UDP\UDP-basic1\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\SB\Desktop\UDP\UDP-basic1\Client\bin\Debug\Client.exe.config
+C:\Users\SB\Desktop\UDP\UDP-basic1\Client\bin\Debug\Client.exe
+C:\Users\SB\Desktop\UDP\UDP-basic1\Client\bin\Debug\Client.pdb
+C:\Users\SB\Desktop\UDP\UDP-basic1\Client\obj\Debug\Client.exe
+C:\Users\SB\Desktop\UDP\UDP-basic1\Client\obj\Debug\Client.pdb

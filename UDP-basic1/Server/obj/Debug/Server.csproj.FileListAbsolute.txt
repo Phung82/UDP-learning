@@ -1,0 +1,7 @@
+C:\Users\SB\Desktop\UDP\UDP-basic1\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\SB\Desktop\UDP\UDP-basic1\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\SB\Desktop\UDP\UDP-basic1\Server\bin\Debug\Server.exe.config
+C:\Users\SB\Desktop\UDP\UDP-basic1\Server\bin\Debug\Server.exe
+C:\Users\SB\Desktop\UDP\UDP-basic1\Server\bin\Debug\Server.pdb
+C:\Users\SB\Desktop\UDP\UDP-basic1\Server\obj\Debug\Server.exe
+C:\Users\SB\Desktop\UDP\UDP-basic1\Server\obj\Debug\Server.pdb

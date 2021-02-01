@@ -14,12 +14,12 @@ namespace Client
         {
             Console.Title = "UDP Client";
             //Yeu cau nguoi dung nhap ip cuar server
-            Console.Write("Server IP address");
+            Console.Write("Server IP address: ");
             var serverIpStr = Console.ReadLine();
             //chuyen chuoi ky tu thanh Ob thuoc kieu IP
             var serverIp = IPAddress.Parse(serverIpStr);
             //yeu cau nguoi dung nhap cong server
-            Console.Write("Server port:");
+            Console.Write("Server port:: ");
             //chuyen kieu ky tu thanh int
             var serverPortStr = Console.ReadLine();
             var serverPort = int.Parse(serverPortStr);
@@ -53,5 +53,6 @@ namespace Client
                 //in ket qua ra man hinh
                 Console.WriteLine($" >> {result}");
             }
+        }
     }
 }
