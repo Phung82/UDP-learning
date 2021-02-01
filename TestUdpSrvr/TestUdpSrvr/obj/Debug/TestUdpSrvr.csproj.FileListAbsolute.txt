@@ -1,0 +1,7 @@
+C:\Users\SB\Desktop\UDP\TestUdpSrvr\TestUdpSrvr\bin\Debug\TestUdpSrvr.exe.config
+C:\Users\SB\Desktop\UDP\TestUdpSrvr\TestUdpSrvr\bin\Debug\TestUdpSrvr.exe
+C:\Users\SB\Desktop\UDP\TestUdpSrvr\TestUdpSrvr\bin\Debug\TestUdpSrvr.pdb
+C:\Users\SB\Desktop\UDP\TestUdpSrvr\TestUdpSrvr\obj\Debug\TestUdpSrvr.csprojAssemblyReference.cache
+C:\Users\SB\Desktop\UDP\TestUdpSrvr\TestUdpSrvr\obj\Debug\TestUdpSrvr.csproj.CoreCompileInputs.cache
+C:\Users\SB\Desktop\UDP\TestUdpSrvr\TestUdpSrvr\obj\Debug\TestUdpSrvr.exe
+C:\Users\SB\Desktop\UDP\TestUdpSrvr\TestUdpSrvr\obj\Debug\TestUdpSrvr.pdb
