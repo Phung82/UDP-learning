@@ -12,6 +12,7 @@ namespace Client
     {
         static void Main(string[] args)
         {
+            Console.Title = "UDP Client";
             //Yeu cau nguoi dung nhap ip cuar server
             Console.Write("Server IP address");
             var serverIpStr = Console.ReadLine();
